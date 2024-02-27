@@ -14,5 +14,5 @@
 ***○ User Input Validation: Ensure valid user inputs within reasonable ranges and handle errors gracefully.***<br>
 ***○ BMI Calculation: Accurately implement the BMI formula.***<br>
 ***○ Categorization: Classify BMI values into health categories based on predefined ranges.***<br>
-***○ GUI Design (for Advanced): Create an intuitive interface with labels, input fields, and result displays using Tkinter.***<br>
+***○ GUI Design: Create an intuitive interface with labels, input fields, and result displays using Tkinter.***<br>
 
