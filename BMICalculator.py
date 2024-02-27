@@ -41,8 +41,10 @@ def calculate_bmi():
             
     except ValueError:
         messagebox.showerror("Error", "Values must be numeric")
+        res = ''
     except ZeroDivisionError:
         messagebox.showerror("Error", "Height and(or)  weight value cannot be zero")
+        res = ''
     else:
         user_bmi = weight/(height*height)
         user_bmi_res = round(user_bmi, 2)
