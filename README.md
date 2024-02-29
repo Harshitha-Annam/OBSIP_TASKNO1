@@ -33,3 +33,19 @@
 ***○ GUI Design: Create an intuitive and user-friendly interface for password generation.***<br>
 ***○ Security Rules: Implement rules for generating strong, secure passwords.***<br>
 ***○ Customization: Enable users to customize password generation further, e.g., excluding specific characters.***<br>
+
+
+<hr>
+
+# OIBSIP_TASKNO3
+## Project Idea : Basic Weather App
+### Project Description :
+***○ Creating a weather app in Python that fetches and displays current weather data for a user-specified location (e.g., city or ZIP code) using a weather API.***<br>
+***○ Shows basic information such as temperature, humidity, and weather conditions.***<br>
+***○ Developing a graphical weather app with a user-friendly interface (GUI) using libraries like Tkinter or PyQt.***<br>
+### Key Concepts and Challenges Satisfied :
+***○ API Integration: Connect to a weather API and parse JSON data.***<br>
+***○ User Input Handling: Validate and process user input for location.***<br>
+***○ GUI Design: Create a user-friendly interface with input fields, weather data displays, and visual elements.***<br>
+
+
