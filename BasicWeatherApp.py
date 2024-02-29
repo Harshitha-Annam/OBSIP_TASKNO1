@@ -3,7 +3,6 @@ import requests
 from tkinter import *
 from tkinter import messagebox
 
-
 # declaring labels for window
 
 win = Tk()
