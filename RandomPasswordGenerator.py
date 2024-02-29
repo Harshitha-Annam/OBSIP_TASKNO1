@@ -2,7 +2,7 @@ from tkinter import *
 from tkinter import messagebox
 from random import *
 from string import *
-
+# creating a window
 win = Tk()
 wid = 0
 # configuring the window
